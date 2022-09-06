@@ -7,4 +7,4 @@ Pre-development notes:
 
 Resources:
 - https://pypi.org/project/nfl-data-py/
--
+- https://towardsdatascience.com/analyzing-and-plotting-nfl-data-with-nflfastpy-and-plotly-a170a09cad6
