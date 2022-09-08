@@ -1,5 +1,7 @@
 # Creating NFL Data Visualizations w/ Team Logos
 
+[Video Tutorial](https://www.youtube.com/watch?v=q6PDM_vq4us)
+
 ## Objective
 Using nfl-data-py, we get access to NFL play-by-play data. This codebase details how to analyze this data and use the team logos to visualize relationships.
 
